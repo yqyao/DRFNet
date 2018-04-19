@@ -1,4 +1,4 @@
-# SSD: Single Shot MultiBox Object Detector, in PyTorch
+# DRFNet: Dense Receptive Field for Object Detector, in PyTorch
 A [PyTorch](http://pytorch.org/) implementation of Dense Receptive Field for Object Detection (accepted by ICPR2018)
 
 <img align="left" src= "https://github.com/yqyao/DRFNet/blob/master/data/drf_net.jpg">
