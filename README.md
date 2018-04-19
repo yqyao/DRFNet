@@ -1,6 +1,8 @@
 # SSD: Single Shot MultiBox Object Detector, in PyTorch
 A [PyTorch](http://pytorch.org/) implementation of Dense Receptive Field for Object Detection (accepted by ICPR2018)
 
+<img align="left" src= "https://github.com/yqyao/DRFNet/blob/master/data/drf_net.jpg">
+
 <!-- <img align="right" src= "https://github.com/amdegroot/ssd.pytorch/blob/master/doc/ssd.png" height = 400/> -->
 
 ### Table of Contents
@@ -109,9 +111,6 @@ python eval.py -v drf_ssd_vgg
 ```
 
 You can specify the parameters listed in the `eval.py` file by flagging them or manually changing them.  
-
-
-<img align="left" src= "https://github.com/yqyao/DRFNet/blob/master/data/drf_net.jpg">
 
 ## Performance
 
