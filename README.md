@@ -117,8 +117,10 @@ You can specify the parameters listed in the `eval.py` file by flagging them or 
 #### VOC2007 Test
 
 ##### mAP
+
 we retrained some models, so it's different from the origin paper
 size = 300
+
 | ssd | drf_32 | drf_48 | drf_64 | drf_96 | drf_128 |
 |:-:|:-:|:-:|:-:|:-:|:-:|
 | 77.2 % | 79.87 % | 79.93% | 79.73 % | 79.38% | 79.65 % |
