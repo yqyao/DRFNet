@@ -1,7 +1,7 @@
 # SSD: Single Shot MultiBox Object Detector, in PyTorch
 A [PyTorch](http://pytorch.org/) implementation of Dense Receptive Field for Object Detection (accepted by ICPR2018)
 
-<img align="right" src= "https://github.com/amdegroot/ssd.pytorch/blob/master/doc/ssd.png" height = 400/>
+<!-- <img align="right" src= "https://github.com/amdegroot/ssd.pytorch/blob/master/doc/ssd.png" height = 400/> -->
 
 ### Table of Contents
 - <a href='#installation'>Installation</a>
