@@ -1,5 +1,6 @@
 # DRFNet: Dense Receptive Field for Object Detector, in PyTorch
 A [PyTorch](http://pytorch.org/) implementation of Dense Receptive Field for Object Detection (accepted by ICPR2018)
+This repoitory is now deprecated, please go to https://github.com/yqyao/SSD_Pytorch.
 
 <img align="left" src= "https://github.com/yqyao/DRFNet/blob/master/data/drf_net.jpg">
 
